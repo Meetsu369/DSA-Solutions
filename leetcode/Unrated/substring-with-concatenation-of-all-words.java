@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/substring-with-concatenation-of-all-words/
-// Solved on: 2026-09-25T12:09:58.347Z
+// Solved on: 2026-09-26T12:51:24.675Z
 
 class Solution {
     public List<Integer> findSubstring(String s, String[] words) {
