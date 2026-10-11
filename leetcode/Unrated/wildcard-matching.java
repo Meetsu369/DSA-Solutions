@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/wildcard-matching/
-// Solved on: 2026-10-10T21:22:05.928Z
+// Solved on: 2026-10-11T05:58:06.019Z
 
 class Solution {
     public boolean isMatch(String s, String p) {
